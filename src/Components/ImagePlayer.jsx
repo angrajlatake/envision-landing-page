@@ -1,7 +1,8 @@
 import React from "react";
 import { motion } from "framer-motion";
 const ImagePlayer = ({ src }) => {
-  //this is a test
+  //this is  git custom command test
+
   return (
     <motion.div
       className="img-player"
